@@ -1,0 +1,9 @@
+credits = `Credits:
+Website backend: David James
+Website architecture: David James
+Survey: David James, Alp Tuna
+Analysis: David James, Alan Nie, Jono Ch'ng
+Infographic: David James, Ameya Mahesh, Alp Tuna, Jono Ch'ng, Alan Nie
+Pictures: Alp Tuna`;
+
+document.getElementById("credits").innerText = credits;
