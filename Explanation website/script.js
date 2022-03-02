@@ -75,7 +75,7 @@ setTimeout(() => {getEntry(6);},2000);
 
 for (let i = 0;i<4800;i++){
     getEntry(i);
-    setTimeout(() => {getEntry(i+1);},2*i);
+    setTimeout(() => {getEntry(i+1);},3*i);
 
 }
   /*
