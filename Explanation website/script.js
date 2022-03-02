@@ -63,7 +63,7 @@ willing to have their data being accessed by David James, Alan Nie, Ameya Mahesh
 that the data will be used to make an infographic about the benefits and disadvantages of online learning compared 
 to face-to-face learning, and that it would be presented on a website.`;
 
-
+document.body.style.backgroundImage = `url(../meta/background2.jpg)`;
 function getEntry(number){
     entry = textToEnter.substr(0,number);
     document.getElementById("explanationText").innerText = entry;
