@@ -53,15 +53,15 @@ email will be tied to their results, so that the data can not be linked to anyon
 ask the user for their consent to use their data for our infographics. 
 Ethical Storage:
 Our primary collected data will be protected with passwords and access rights to prevent others from accessing 
-the data. Once the primary collected data has been used for the infographic, the data will be destroyed to avoid 
-the data to be used elsewhere. We will have back-ups of our data in a separate location such as a saved excel page, 
-however this will also get destroyed after the infographic has been made.
+the data. Once the primary collected data has been used for the infographic, the data will be destroyed to 
+avoid the data to be used elsewhere. We will have back-ups of our data in a separate location such as a saved 
+excel page, however this will also get destroyed after the infographic has been made.
 	Ethical Use of Primary Collected Data:
 We will ensure to inform our participants about who has access to their data, how their data is being used and 
 how their data will be presented, before they fill out our survey. We will create a consent form that they are 
 willing to have their data being accessed by David James, Alan Nie, Ameya Mahesh, Alp Tuna and Jonathan Ch’ng, 
-that the data will be used to make an infographic about the benefits and disadvantages of online learning compared 
-to face-to-face learning, and that it would be presented on a website.`;
+that the data will be used to make an infographic about the benefits and disadvantages of online learning 
+compared to face-to-face learning, and that it would be presented on a website.`;
 
 document.body.style.backgroundImage = `url(../meta/background2.jpg)`;
 function getEntry(number){

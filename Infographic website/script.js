@@ -1,1 +1,1 @@
-document.body.style.backgroundImage = `url(../meta/background2.jpg)`;
+document.body.style.backgroundImage = `url(../meta/background4.jpg)`;
