@@ -8,4 +8,4 @@ Infographic: Ameya Mahesh, Alp Tuna, Jono Ch'ng, Alan Nie
 Pictures: Alp Tuna, Jono Ch'ng`;
 
 document.getElementById("credits").innerText = credits;
-document.body.style.backgroundImage = `url(./meta/background2.jpg)`;
+document.body.style.backgroundImage = `url(./meta/background3.jpg)`;
