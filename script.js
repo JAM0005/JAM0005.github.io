@@ -2,7 +2,7 @@ credits = `Credits:
 Website backend: David James
 Website architecture: David James
 Website frontend: Alp Tuna, Alan Nie, Ameya Mahesh
-Survey: David James, Alp Tuna, Ameya Mahesh
+Survey: David James, Alp Tuna, Ameya Mahesh, Jono Ch'ng
 Analysis: David James, Alan Nie, Jono Ch'ng, Ameya Mahesh
 Infographic: Ameya Mahesh, Alp Tuna, Jono Ch'ng, Alan Nie
 Pictures: Alp Tuna, Jono Ch'ng`;
