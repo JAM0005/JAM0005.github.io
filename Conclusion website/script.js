@@ -2,6 +2,8 @@ conclusionText = "balls";
 document.getElementById("conclusionText").innerText = conclusionText;
 
 textToEnter = `Conclusion:
+We had planned to collect data from other countries in the project proposal, however, we 
+decided to focus on Melbourne as it would make it simpler and more specific.
 The Year 11s surveyed had a strong predilection for onsite learning, believing it to be 
 more effective for learning as well as easier to remain motivated. However, they did spot 
 some pretty large issues. For one, it was much easier to prepare for the day during online 
